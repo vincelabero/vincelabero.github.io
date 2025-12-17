@@ -2,7 +2,8 @@
 <div align="center">
 
 # marcky🏀
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2ZqdW5peDY1bnVtdW1lcTc1a2I0MWJzbG5iOTFzazZrMGF5Ym8wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif![image](https://github.com/user-attachments/assets/5cdd1245-6e97-4a8b-aa8e-572a13d159ee)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydHBleDFuYmt0ZDJzaGhyenR4ZWlza3d6MGtiZW5kZ2FzYW1iaWh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif![image](https://github.com/user-attachments/assets/c1960b03-bc51-4363-95f6-fb9a30005c15)
+"![image](https://github.com/user-attachments/assets/5cdd1245-6e97-4a8b-aa8e-572a13d159ee)
 " width="420">
 
 ### *“I can Do all things through Christ who strengthens me”* ✝️

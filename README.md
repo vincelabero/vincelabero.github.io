@@ -2,9 +2,8 @@
 <div align="center">
 
 # marcky🏀
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydHBleDFuYmt0ZDJzaGhyenR4ZWlza3d6MGtiZW5kZ2FzYW1iaWh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif![image](https://github.com/user-attachments/assets/c1960b03-bc51-4363-95f6-fb9a30005c15)
-"![image](https://github.com/user-attachments/assets/5cdd1245-6e97-4a8b-aa8e-572a13d159ee)
-" width="420">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXc2NWdzOXF1bXZzZmF2NXd1dmgzajJsMDZzY2VoNzFra2p3ajBpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+width="420">
 
 ### *“I can Do all things through Christ who strengthens me”* ✝️
 </div>
@@ -12,8 +11,9 @@
 ---
 
 ## 🌟 **Coding Activity**
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcaberotheme=react-dark&area=true&hide_border=true&custom_title=Vincel's%20Coding%20Activity" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincelabero&theme=react-dark&area=true&hide_border=true&custom_title=Marc's%20Coding%20Activity" width="95%">
 </div>
 
 ---
@@ -40,13 +40,13 @@
 
 <div align=center>
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=marcabero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vincelabero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=marcabero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vincelabero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
 
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=marcabero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vincelabero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 </div>
@@ -55,7 +55,7 @@
 
 <div align="center">
 Salamat ng marami mga boss amo!  
-Tignan nyo repositories tsaka magiwan kayo ng stars ⭐
+Tignan nyo repositories ko mga bossing ko tsaka magiwan na din kayo ng stars ⭐
 </div>
 
 ---
